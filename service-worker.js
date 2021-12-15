@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mate966/todo-list/precache-manifest.a63fd8d903b9d83e66f158b77b8771d1.js"
+  "/todo-list/precache-manifest.06e559007147cd3b59bd05d0c27ffd86.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/mate966/todo-list/index.html", {
+workbox.routing.registerNavigationRoute("/todo-list/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
