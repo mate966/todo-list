@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/todo-list/static/media/styled-logo.924041ba.png"
   },
   {
-    "revision": "f64c4c57ebc197ac407d24e3bc979eb3",
+    "revision": "3781598225a077cecc2bf5492b1a06d5",
     "url": "/todo-list/index.html"
   }
 ];
